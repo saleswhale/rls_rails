@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-gem 'rack', '~> 2.2.11'
+gem 'rack', '~> 2.2.14'
 gem 'nokogiri', '~> 1.18.4'
 gem 'net-imap', '~> 0.5.6'
 
