@@ -3,7 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 gem 'rack', '~> 2.2.14'
 gem 'nokogiri', '~> 1.18.4'
-gem 'net-imap', '~> 0.5.6'
+gem 'net-imap', '~> 0.5.7'
 
 # Declare your gem's dependencies in rls.gemspec.
 # Bundler will treat runtime dependencies like base dependencies, and
