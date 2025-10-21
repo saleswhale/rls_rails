@@ -138,7 +138,7 @@ GEM
       date
       stringio
     racc (1.8.1)
-    rack (2.2.14)
+    rack (2.2.20)
     rack-session (1.0.2)
       rack (< 3)
     rack-test (2.2.0)
@@ -219,7 +219,7 @@ DEPENDENCIES
   net-imap (~> 0.5.7)
   nokogiri (~> 1.18.8)
   postgresql
-  rack (~> 2.2.14)
+  rack (~> 2.2.20)
   rls_rails!
   rspec
   ruby-debug-ide
